@@ -89,4 +89,4 @@ Database: Swap users.json and jackpot.json for SQLite/MongoDB for larger groups.
 Contributing
 Pull requests are welcome! Add new features, fix bugs, or enhance the neon-graffiti vibe. Star the repo if you’re feeling the Anaky_rules energy! 😎
 License
-MIT License © 2025 Anarky6
+
